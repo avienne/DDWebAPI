@@ -1,0 +1,4 @@
+dépendances
+
+ Django rest framework
+ django-cors-headers
