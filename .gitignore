@@ -1,3 +1,4 @@
 DDWebAPI/__pycache__/*
 app/__pycache__/__init__.cpython-35.pyc
+*.pyc
 db.sqlite3
